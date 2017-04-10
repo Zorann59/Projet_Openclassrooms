@@ -25,6 +25,7 @@ namespace JeuduPlusouduMoins
             int nombreUtilisateur = 0;
             int count = 0;
 
+            // Ajout de la boucle
             do
             {
                 Console.WriteLine("\n" + "Saisir un nombre entre 1 et 1000 : ");
@@ -47,7 +48,7 @@ namespace JeuduPlusouduMoins
             }
             while (nombreUtilisateur != randomNumber);
 
-            Console.WriteLine("Vous avez trouver le nombre " + "{0}" + " en " + "{1}" + " fois.", randomNumber, count);
+            Console.WriteLine("Vous avez trouver le nombre " + "{0}" + " en " + "{1}" + " fois.", randomNumber, count); // Phrase finale
 
 
 
