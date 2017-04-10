@@ -15,7 +15,7 @@ namespace JeuduPlusouduMoins
 
             //  Instanciation d'une class Random random
             Random random = new Random();
-            int randomNumber = random.Next(0, 1000);     //  On défini les bornes entre lequels le nombre aléatoire sera choisit
+            int randomNumber = random.Next(0, 100);     //  On défini les bornes entre lequels le nombre aléatoire sera choisit
 
 
 
@@ -28,7 +28,7 @@ namespace JeuduPlusouduMoins
             // Ajout de la boucle
             do
             {
-                Console.WriteLine("\n" + "Saisir un nombre entre 1 et 1000 : ");
+                Console.WriteLine("\n" + "Saisir un nombre entre 1 et 100 : ");
                 nombreUtilisateur = Int16.Parse(Console.ReadLine());
                 if (nombreUtilisateur == randomNumber)
                 {
