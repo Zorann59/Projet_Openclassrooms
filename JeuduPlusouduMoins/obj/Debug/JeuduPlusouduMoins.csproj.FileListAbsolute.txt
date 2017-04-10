@@ -1,0 +1,9 @@
+C:\Dessinges Alexandre\EXERCICES PROGRAMMES\POO\JeuduPlusouduMoins\JeuduPlusouduMoins\bin\Debug\JeuduPlusouduMoins.exe.config
+C:\Dessinges Alexandre\EXERCICES PROGRAMMES\POO\JeuduPlusouduMoins\JeuduPlusouduMoins\obj\Debug\JeuduPlusouduMoins.csprojResolveAssemblyReference.cache
+C:\Dessinges Alexandre\EXERCICES PROGRAMMES\POO\JeuduPlusouduMoins\JeuduPlusouduMoins\bin\Debug\JeuduPlusouduMoins.exe
+C:\Dessinges Alexandre\EXERCICES PROGRAMMES\POO\JeuduPlusouduMoins\JeuduPlusouduMoins\bin\Debug\JeuduPlusouduMoins.pdb
+C:\Dessinges Alexandre\EXERCICES PROGRAMMES\POO\JeuduPlusouduMoins\JeuduPlusouduMoins\obj\Debug\JeuduPlusouduMoins.exe
+C:\Dessinges Alexandre\EXERCICES PROGRAMMES\POO\JeuduPlusouduMoins\JeuduPlusouduMoins\obj\Debug\JeuduPlusouduMoins.pdb
+F:\.AFPA Programmes et Fichiers\Programmes\C# Algo et ConsoleApplication\JeuduPlusouduMoins\JeuduPlusouduMoins\bin\Debug\JeuduPlusouduMoins.exe.config
+F:\.AFPA Programmes et Fichiers\Programmes\C# Algo et ConsoleApplication\JeuduPlusouduMoins\JeuduPlusouduMoins\obj\Debug\JeuduPlusouduMoins.exe
+F:\.AFPA Programmes et Fichiers\Programmes\C# Algo et ConsoleApplication\JeuduPlusouduMoins\JeuduPlusouduMoins\obj\Debug\JeuduPlusouduMoins.pdb
