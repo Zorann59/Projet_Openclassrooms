@@ -7,7 +7,7 @@ using System.Timers;
 
 namespace JeuduPlusouduMoins
 {
-    class Application
+    class Jeu
     {
         public static void Main(string[] args)
         {
